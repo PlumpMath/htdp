@@ -3,11 +3,11 @@ Practice of **How to Design Programs**
 
 - Quizzes from: http://htdp.org
 
-- Solutions by: Bak Yeon O
+- Solved by: Bak Yeon O
 
-- Codes written in: Dr. Racket
+- Written in: Dr. Racket
 
-- Comments written in: Korean
+- With comments in : Korean
 
 - Progress: ... / ...
 

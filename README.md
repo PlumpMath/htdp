@@ -1,14 +1,8 @@
-Practice of **How to Design Programs**
+htdp
 ====
 
-- Quizzes from: http://htdp.org
+## Codes I wrote to study
 
-- Solved by: Bak Yeon O
+- [*How to Design Programs*][htdp]
 
-- Written in: Dr. Racket
-
-- With comments in : Korean
-
-- Progress: ... / ...
-
-- Contact: bakyeono@gmail.com
+[htdp]: http://htdp.org
